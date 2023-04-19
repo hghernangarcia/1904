@@ -1,0 +1,12 @@
+.navbar-container{
+  display: flex;
+  justify-content: space-around;
+  background: #03a9f4;
+  padding: 7px;
+  display: flex;
+}
+
+.buttons-navbar{
+  background: none;
+  border: none;
+}
